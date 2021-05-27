@@ -7,11 +7,11 @@ We used bloom filters to search and suggest books from our data set. Hash functi
 
 # About the Application
 Some features of this application are as follows:
-    - Contians a search box to type book's title to be searched.
-    - Search button to search book.
-    - Two output boxes to display the results
-    - First output box displays details of the book.
-    - Second output box displays similar books.
+    1. Contians a search box to type book's title to be searched.
+    2. Search button to search book.
+    3. Two output boxes to display the results
+    4. First output box displays details of the book.
+    5. Second output box displays similar books.
 
 
 ## How to Run
