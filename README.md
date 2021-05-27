@@ -2,7 +2,7 @@
 CS-201 Final Project (Bloom Filters)
 
 # Overview
-Built an application in python using Tkinter Library for course project 'CS-201: Data Structures and Algorithms' at Habib University.
+Built an application in python using **Tkinter Library** for course project **'CS-201: Data Structures and Algorithms'** at Habib University.
 We used bloom filters to search and suggest books from our data set. Hash functions are also used to accomplish the task.
 
 # About the Application
@@ -26,7 +26,10 @@ This project is jointly developed by:
 5. Shayan Shariff
 
 You may contact us about any bugs or errors at the following emails: 
-1. gh06210@st.habib.edu.pk
-2. 
+1. ss06192@st.habib.edu.pk
+2. ha05890@st.habib.edu.pk
+3. gh06210@st.habib.edu.pk
+4. fn05458@st.habib.edu.pk
+5. ss05582@st.habib.edu.pk
 
-Happy testing :)
+**Happy testing :)**
