@@ -1,0 +1,156 @@
+J.K Rowling
+5
+Magic
+Enid Blyton
+5
+Adventure
+Enid Blyton
+5
+Adventure
+Mitch Album
+3
+Children Novel
+Roald Dahl
+5
+Children Novel
+Jeff Kinney
+3
+Children Novel
+Paulo Coelho
+5
+Novel
+Robert Kiyoski
+2
+Novel
+Stephen Hawkings
+4
+Science
+Khaled Hosseini
+5
+Novel
+Charles Dickens
+5
+Novel
+Spencer Johnson
+4
+Children Novel
+Robert Louis
+5
+Thriller
+Betty Mehmoody
+5
+Novel
+Charles Dickens
+5
+Novel
+Charlotte Bronte
+5
+Novel
+David Sheff
+5
+Novel
+Francesca Simon
+1
+Children Novel
+George Orwell
+5
+Novel
+Rider Haggard
+2
+Novel
+Jules Verne
+3
+Adventure
+Edgar Rice
+4
+Novel
+Leo Tolstoy
+5
+Novel
+Johann David
+1
+Novel
+Jane Austin
+4
+Novel
+Christopher Priest
+5
+Thriller
+George R.R Martin
+5
+Magic
+John Green
+5
+Novel
+Jay Asher
+4
+Novel
+Suzanne Collins
+5
+Adventure
+Suzanne Collins
+5
+Adventure
+Suzanne Collins
+5
+Adventure
+John Medina
+5
+Science
+Amita Trasi
+4
+Novel
+Roald Dahl
+4
+Children Novel
+Roald Dahl
+4
+Children Novel
+Thomas Hardy
+3
+Novel
+Ibrahim Al-Koni
+2
+Novel
+Martin Heidegger
+4
+Non-fiction
+Paulo Coelho
+5
+Novel
+Friedrich Nietzsche
+2
+Non-fiction
+Jean-Paul Sarte
+3
+Novel
+John Edward Williams
+5
+Novel
+Fyodor Dostoevsky
+5
+Novel
+Albert Camus
+5
+Novel
+Elif Shafak
+5
+Non-fiction
+Franz Kafka
+5
+Novel
+Allen B. Downey
+3
+Science
+Nicholas Evans
+4
+Novel
+Oscar Wilde
+4
+Novel
+Plato
+3
+Children Novel
+Mohammed Hanif
+5
+Novel
